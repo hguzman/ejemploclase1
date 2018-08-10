@@ -1,0 +1,17 @@
+.encabezado {
+border: 10px double black;
+margin-top: 10px;
+}
+
+
+
+#contenido {
+border: 10px double green;
+margin-top: 20px;
+}
+
+
+.pie {
+border: 10px double red;
+margin-top: 20px;
+}
